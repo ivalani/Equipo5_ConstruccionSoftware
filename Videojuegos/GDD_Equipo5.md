@@ -108,16 +108,13 @@ _(Controls for the rhythm game are TBD) The idea is to use the A and D keys to h
 
 ### **Mechanics**
 
-*DE TODO LOS MINIJUEGOS 
-A donde te puedes mover
-Interacciones (IWALANI)*
-
 - General mechanics:
     - The player can to move in the four cardinal points. 
     - When the player gets near a building it can enter the building.
     - Also when the player is near an NPC you can talk to it.
     - If an obstacle blocks the way but the challenge has not been solved, you cannot proceed to the next island.
     - You can interact with obstacles so they can move out the way.
+    - If there are no obstacles on the bridges, the player can move to other islands.
     - Can be interacted with randomly placed instruments within the island. 
     - Instruments found on the island can be stored in the inventory.
     - You can select instruments from the inventory to see their information or listen to their sound.
