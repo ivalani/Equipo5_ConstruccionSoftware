@@ -499,7 +499,7 @@ Estimated times
      1. Initial music (title music)
      2. Island music (while the player is navigating the map)
      3. Rooms music (inside the rooms)
-     4. Credits music
+     4. Credits music 
      5. Mini-games musics
         1. Memory (series of notes)
         2. Rhythm (Percussion tones)
